@@ -3,6 +3,8 @@
 
 <h3> Itens que eu "supostamente" """"""""""""""aprendi""""""""""""""</h3>
 
+Erro resolvido!
+
 
 <ul>
 
